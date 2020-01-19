@@ -1,2 +1,3 @@
-<p align="center">Project UAS Bahasa Pemrograman</p>
+#Project UAS Bahasa Pemrograman
+
 ![](Uas.jpg)
